@@ -1,0 +1,10 @@
+# Godot 4+
+.godot/
+/android/
+# Build-Artefakte (zu gross fuers Repo, werden als Release angehaengt)
+*.apk
+*.aab
+*.idsig
+# macOS
+.DS_Store
+HRM Loud enough to Kill.apk
